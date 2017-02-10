@@ -1,2 +1,0 @@
-# login
-Lamp login page
